@@ -1,3 +1,5 @@
+//https://school.programmers.co.kr/learn/courses/15008/lessons/121685
+
 function solution(queries) {
   var answer = [];
   const table = ['RR','Rr','Rr','rr']
